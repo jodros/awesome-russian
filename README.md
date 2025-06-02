@@ -43,7 +43,7 @@ Maybe the first website I should recommend you is [Russian enthusiast](https://r
 - [Tania Klimova - Russian Podcast](https://www.youtube.com/@RussianLanguagePodcast)
 - [Yaroslava Russian](https://www.youtube.com/@YaroslavaRussian)
 - [Russian with Max](https://www.youtube.com/@RussianWithMax)
-- [Russian Radio Show][https://www.youtube.com/@RussianRadioShow]
+- [Russian Radio Show](https://www.youtube.com/@RussianRadioShow)
 
 ### Soviet Archive
 
@@ -80,7 +80,7 @@ This section brings together channels that represent a given field of knowledge 
 - [Что это было?](https://open.spotify.com/show/2CR7Wn6IzBVXPxQ5uzkkz1)
 - [Что случилось](https://open.spotify.com/show/4VCwwHEoJwlvOHWNm1ySKB) 
 - [In Russian from Afar](https://open.spotify.com/show/2v1RuAGjifxb8C1gD3Ckqe)
-- [Russian Radio Show on Spotify][https://open.spotify.com/show/72rFvi1mggZI79RpTqNpJV]
+- [Russian Radio Show on Spotify](https://open.spotify.com/show/72rFvi1mggZI79RpTqNpJV)
 
 ## News - Новости
 
