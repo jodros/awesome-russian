@@ -49,7 +49,7 @@ Maybe the first website I should recommend you is [Russian enthusiast](https://r
 
 - [Советское телевидение](https://www.youtube.com/@gtrftv/)
 - [Советские фильмы](https://www.youtube.com/@gtrffilms)
-- [Музыка на советском](https://www.youtube.com/@gtrfmusic)
+- [Музыка на советском телевидении](https://www.youtube.com/@gtrfmusic)
 - [Советский юмор](https://www.youtube.com/@gtrfhumor)
 - [Советское радио](https://www.youtube.com/@gtrfradio)
 
