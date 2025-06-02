@@ -60,7 +60,7 @@ Maybe the first website I should recommend you is [Russian enthusiast](https://r
 
 ### Miscellanea
 
-This section brings together channels that represent a given field of knowledge or interest. If know any serious channel about a specific field (Biology, Chemistry, Sports...) in Russian, please make a PR!
+This section brings together channels that represent a given field of knowledge or interest. If you know any serious channel about a specific field (Biology, Chemistry, Sports...) in Russian, please make a PR!
 
 - [Филолог всея Руси](https://www.youtube.com/@poetische) -- this one has great content about Russian language and culture
 
