@@ -16,7 +16,8 @@ Maybe the first website I should recommend you is [Russian enthusiast](https://r
 
 ## Culture and Education - Культура и образование
 
-- [Culture.ru](https://culture.ru)
+- [Полка](https://polka.academy/) -- Russian poetry
+- [Культура.РФ](https://culture.ru)
 - [Foxford](https://foxford.ru/wiki/russkiy-yazyk/)
 - [Большая российская энциклопедия](https://bigenc.ru/)
 
@@ -86,6 +87,11 @@ This section brings together channels that represent a given field of knowledge 
 
 - [BBC русская служба](https://www.bbc.com/russian)
 - [ТАСС](https://tass.ru/) -- Offical Russian state agency, be warned!
+
+### Radio and TV - Радио и телевидение 
+
+- [Первый канал](https://www.1tv.ru/)
+- [Всероссийская государственная телевизионная и радиовещательная компания](https://vgtrk.ru/)
 
 ## Proficiency exams
 
