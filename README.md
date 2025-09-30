@@ -8,7 +8,7 @@ Although this is a personally curated list, PRs are welcome!
 
 ## Disclaimer
 
-_I know most of it looks basically free advertising for content creators lmao, but I must clarify I have nothing to do with any of them and I do not endorse anything they say, I only find their content interesting/useful to improve listening and increase vocabulary! So, if there is any link here to an organization controlled by the Russian Government, I am not endorsing any behavior or ideology of the Russian Government, I am just saying: hey, here is a place where you can learn more of the Russian language. The same applies for every single YouTube channel listed here, I've never talked to any of these youtubers and I do not have any kind of ideological commitment to any of them..._
+_I know most of it looks basically free advertising for content creators lmao, but I must clarify I have nothing to do with any of them and I do not endorse anything they say, I only find their content interesting/useful to improve listening and increase vocabulary. So, if there is any link here to an organization controlled by the Russian Government, I am not endorsing any behavior or ideology of the Russian Government, I am just saying: hey, here is a place where you can learn more about the Russian language. The same applies for every single YouTube channel listed here, I've never talked to any of these youtubers and I do not have any kind of commitment to any of them..._
 
 ------------
 
@@ -16,9 +16,10 @@ Maybe the first website I should recommend you is [Russian enthusiast](https://r
 
 ## Culture and Education - Культура и образование
 
-- [Полка](https://polka.academy/) -- Russian poetry
-- [Культура.РФ](https://culture.ru)
-- [Foxford](https://foxford.ru/wiki/russkiy-yazyk/)
+- [Грамота.ру](https://gramota.ru/) -- Portal about grammar, orthography, and rules of the standard norm of the Russian language.
+- [Культура.РФ](https://culture.ru) -- The official Russian state portal for culture and heritage.
+- [Foxford](https://foxford.ru/wiki/russkiy-yazyk/) -- It's pretty much like Khan Academy.
+- [Полка](https://polka.academy/) -- Russian poetry.
 - [Большая российская энциклопедия](https://bigenc.ru/)
 
 ### Q&A
