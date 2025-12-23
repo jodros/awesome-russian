@@ -12,11 +12,14 @@ _I know most of it looks basically free advertising for content creators lmao, b
 
 ------------
 
-Maybe the first website I should recommend you is [Russian enthusiast](https://russianenthusiast.com/), there you can find useful lists of essencial vocabulary...
+## Grammar and vocabulary
+
+- [Open Russian](https://en.openrussian.org/)
+- [Russian enthusiast](https://russianenthusiast.com/)
+- [Грамота.ру](https://gramota.ru/) -- Portal about grammar, orthography, and rules of the standard norm of the Russian language.
 
 ## Culture and Education - Культура и образование
 
-- [Грамота.ру](https://gramota.ru/) -- Portal about grammar, orthography, and rules of the standard norm of the Russian language.
 - [Культура.РФ](https://culture.ru) -- The official Russian state portal for culture and heritage.
 - [Foxford](https://foxford.ru/wiki/russkiy-yazyk/) -- It's pretty much like Khan Academy.
 - [Полка](https://polka.academy/) -- Russian poetry.
